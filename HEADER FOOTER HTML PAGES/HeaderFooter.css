@@ -1,0 +1,79 @@
+.navbar{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 240px;
+    margin-top: -220px;
+    display: block;
+    padding-left: 450px;
+    
+    padding-top: 50px;
+    width: 650px;
+    height: 250px;
+    background-color: brown;
+    
+    
+    
+}
+
+a{
+    color: black;
+    padding-left: 100px;
+}
+
+.logo{
+    margin-left: -100px;
+}
+
+.Mary{
+    margin-top: 50px;
+    display: flex;
+}
+
+.Reasons{
+     font-size: 60px;
+     margin-left: 100px;
+     display: block;
+}
+
+.Its{
+    display:flex;
+    font-size: 30px;
+    margin-left: 100px;
+
+}
+
+.sectionh2{
+    width: 1190px;
+    height: 400px;
+    margin-top: 40px;
+
+}
+
+body{
+
+}
+
+.footer{
+    display: flex;
+    width: auto;
+    height: 100px;
+ 
+    background-color: #373737;
+}
+
+/*.footer a  */
+.Alpha{
+         display: block;
+         height: 60px;
+         width: 1500px;
+      /*   background-color: azure; */
+         margin-top: 40px;
+         margin-left: 300px;
+         font-size: 30px;
+         
+}  
+
+.footer a{
+    color: black;
+    
+}
